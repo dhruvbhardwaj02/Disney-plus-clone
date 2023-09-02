@@ -13,7 +13,7 @@ const Details = () => {
       <Controls>
         <PlayButton>
           <img src="/images/play-icon-black.png" alt="" />
-          <span>PLAY</span>
+          {/* <span>PLAY</span> */}
         </PlayButton>
         <TrailerButton>
           <img src="/images/play-icon-white.png" alt="" />
